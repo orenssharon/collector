@@ -1,39 +1,39 @@
 {
-    "last_updated": "2026-10-28 14:50:40",
+    "last_updated": "2026-10-28 20:45:52",
     "total_deals": 13,
     "deals": [
         {
             "id": "gh_real_1",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Rust)",
-            "metrics": "⭐ 34 / 🍴 2",
+            "type": "Micro-SaaS / Ready Code (PHP)",
+            "metrics": "⭐ 6579 / 🍴 1171",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/tamaro-skaljic/SpacetimeDSL"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/roots/bedrock"
         },
         {
             "id": "gh_real_2",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (C++)",
-            "metrics": "⭐ 6244 / 🍴 571",
+            "type": "Micro-SaaS / Ready Code (Swift)",
+            "metrics": "⭐ 198 / 🍴 8",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/Neargye/magic_enum"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/dfed/SafeDI"
         },
         {
             "id": "gh_real_3",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Jinja)",
-            "metrics": "⭐ 241 / 🍴 85",
+            "type": "Micro-SaaS / Ready Code (Python)",
+            "metrics": "⭐ 145 / 🍴 11",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/NLeSC/python-template"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/lbedner/aegis-stack"
         },
         {
             "id": "gh_real_4",
@@ -43,52 +43,52 @@
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
+            "timestamp": "2026-10-28 20:45",
             "link": "https://github.com/darkroomengineering/satus"
         },
         {
             "id": "gh_real_5",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Go)",
-            "metrics": "⭐ 8633 / 🍴 1059",
+            "type": "Micro-SaaS / Ready Code (Makefile)",
+            "metrics": "⭐ 90 / 🍴 45",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/oapi-codegen/oapi-codegen"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/pulumi/pulumi-tf-provider-boilerplate"
         },
         {
             "id": "gh_real_6",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (JavaScript)",
-            "metrics": "⭐ 90 / 🍴 25",
+            "type": "Micro-SaaS / Ready Code (TypeScript)",
+            "metrics": "⭐ 170 / 🍴 80",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/pinceladasdaweb/docker-fastify-restful-api"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/muxinc/video-course-starter-kit"
         },
         {
             "id": "gh_real_7",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Python)",
-            "metrics": "⭐ 249 / 🍴 17",
+            "type": "Micro-SaaS / Ready Code (JavaScript)",
+            "metrics": "⭐ 11512 / 🍴 4349",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/level09/readykit"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/serverless/examples"
         },
         {
             "id": "gh_real_8",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (HTML)",
-            "metrics": "⭐ 568 / 🍴 80",
+            "type": "Micro-SaaS / Ready Code (None)",
+            "metrics": "⭐ 156 / 🍴 56",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 14:50",
-            "link": "https://github.com/level09/enferno"
+            "timestamp": "2026-10-28 20:45",
+            "link": "https://github.com/iamramanarora/TopAutomationTools"
         },
         {
             "id": "dom_live_1",
@@ -98,7 +98,7 @@
             "price": "$140",
             "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-10-28 14:50",
+            "timestamp": "2026-10-28 20:45",
             "link": "https://sedo.com"
         },
         {
@@ -109,7 +109,7 @@
             "price": "$290",
             "potential": "$2,500+",
             "category": "domain",
-            "timestamp": "2026-10-28 14:50",
+            "timestamp": "2026-10-28 20:45",
             "link": "https://sedo.com"
         },
         {
@@ -120,7 +120,7 @@
             "price": "$210",
             "potential": "$1,800+",
             "category": "domain",
-            "timestamp": "2026-10-28 14:50",
+            "timestamp": "2026-10-28 20:45",
             "link": "https://afternic.com"
         },
         {
@@ -131,7 +131,7 @@
             "price": "$480",
             "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-10-28 14:50",
+            "timestamp": "2026-10-28 20:45",
             "link": "https://flippa.com"
         },
         {
@@ -142,7 +142,7 @@
             "price": "$850",
             "potential": "$6,000+",
             "category": "saas",
-            "timestamp": "2026-10-28 14:50",
+            "timestamp": "2026-10-28 20:45",
             "link": "https://acquire.com"
         }
     ]
