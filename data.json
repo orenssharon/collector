@@ -1,0 +1,39 @@
+{
+    "last_updated": "2026-10-28 00:33:10",
+    "total_deals": 3,
+    "deals": [
+        {
+            "id": "dom_1",
+            "platform": "Sedo",
+            "type": "דומיין נישה (AI Tools)",
+            "metrics": "DA 34 / 4K ביקורים",
+            "price": "$120",
+            "potential": "$1,200+",
+            "category": "domain",
+            "timestamp": "2026-10-28 00:33",
+            "link": "https://sedo.com"
+        },
+        {
+            "id": "saas_1",
+            "platform": "Flippa",
+            "type": "מיקרו-SaaS (כלי PDF)",
+            "metrics": "הכנסה $150/חודש",
+            "price": "$450",
+            "potential": "$3,000+",
+            "category": "saas",
+            "timestamp": "2026-10-28 00:33",
+            "link": "https://flippa.com"
+        },
+        {
+            "id": "gh_1",
+            "platform": "GitHub / BuiltWith",
+            "type": "בוט אוטומציה לטלגרם",
+            "metrics": "1.2k Stars / פעיל",
+            "price": "$200",
+            "potential": "$1,500+",
+            "category": "code",
+            "timestamp": "2026-10-28 00:33",
+            "link": "https://github.com"
+        }
+    ]
+}
