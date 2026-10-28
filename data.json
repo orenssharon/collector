@@ -1,39 +1,39 @@
 {
-    "last_updated": "2026-10-28 00:36:30",
+    "last_updated": "2026-10-28 00:39:11",
     "total_deals": 5,
     "deals": [
         {
             "id": "gh_real_1",
-            "platform": "GitHub Open Source",
-            "type": "קוד פתוח (Python)",
-            "metrics": "⭐ 492717 / 🍴 54912",
-            "price": "$0 (קוד פתוח)",
-            "potential": "גבוה (SaaS/Monetization)",
+            "platform": "GitHub / Open Source Deal",
+            "type": "מיקרו-SaaS / קוד מוכן (Rust)",
+            "metrics": "⭐ 445 / 🍴 7",
+            "price": "$150 - $500",
+            "potential": "גבוה (מוכן למכירה/השקה)",
             "category": "code",
-            "timestamp": "2026-10-28 00:36",
-            "link": "https://github.com/public-apis/public-apis"
+            "timestamp": "2026-10-28 00:39",
+            "link": "https://github.com/mcmah309/eros"
         },
         {
             "id": "gh_real_2",
-            "platform": "GitHub Open Source",
-            "type": "קוד פתוח (Python)",
-            "metrics": "⭐ 400303 / 🍴 67024",
-            "price": "$0 (קוד פתוח)",
-            "potential": "גבוה (SaaS/Monetization)",
+            "platform": "GitHub / Open Source Deal",
+            "type": "מיקרו-SaaS / קוד מוכן (TypeScript)",
+            "metrics": "⭐ 475 / 🍴 53",
+            "price": "$150 - $500",
+            "potential": "גבוה (מוכן למכירה/השקה)",
             "category": "code",
-            "timestamp": "2026-10-28 00:36",
-            "link": "https://github.com/EbookFoundation/free-programming-books"
+            "timestamp": "2026-10-28 00:39",
+            "link": "https://github.com/marcoturi/fastify-boilerplate"
         },
         {
             "id": "gh_real_3",
-            "platform": "GitHub Open Source",
-            "type": "קוד פתוח (Python)",
-            "metrics": "⭐ 375850 / 🍴 59019",
-            "price": "$0 (קוד פתוח)",
-            "potential": "גבוה (SaaS/Monetization)",
+            "platform": "GitHub / Open Source Deal",
+            "type": "מיקרו-SaaS / קוד מוכן (Swift)",
+            "metrics": "⭐ 198 / 🍴 8",
+            "price": "$150 - $500",
+            "potential": "גבוה (מוכן למכירה/השקה)",
             "category": "code",
-            "timestamp": "2026-10-28 00:36",
-            "link": "https://github.com/donnemartin/system-design-primer"
+            "timestamp": "2026-10-28 00:39",
+            "link": "https://github.com/dfed/SafeDI"
         },
         {
             "id": "dom_live_1",
@@ -43,7 +43,7 @@
             "price": "$180",
             "potential": "$1,500+",
             "category": "domain",
-            "timestamp": "2026-10-28 00:36",
+            "timestamp": "2026-10-28 00:39",
             "link": "https://sedo.com"
         },
         {
@@ -54,7 +54,7 @@
             "price": "$550",
             "potential": "$4,000+",
             "category": "saas",
-            "timestamp": "2026-10-28 00:36",
+            "timestamp": "2026-10-28 00:39",
             "link": "https://flippa.com"
         }
     ]
