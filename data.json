@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-28 00:39:11",
-    "total_deals": 5,
+    "last_updated": "2026-10-28 00:41:34",
+    "total_deals": 4,
     "deals": [
         {
             "id": "gh_real_1",
@@ -10,7 +10,7 @@
             "price": "$150 - $500",
             "potential": "גבוה (מוכן למכירה/השקה)",
             "category": "code",
-            "timestamp": "2026-10-28 00:39",
+            "timestamp": "2026-10-28 00:41",
             "link": "https://github.com/mcmah309/eros"
         },
         {
@@ -21,40 +21,29 @@
             "price": "$150 - $500",
             "potential": "גבוה (מוכן למכירה/השקה)",
             "category": "code",
-            "timestamp": "2026-10-28 00:39",
+            "timestamp": "2026-10-28 00:41",
             "link": "https://github.com/marcoturi/fastify-boilerplate"
         },
         {
-            "id": "gh_real_3",
-            "platform": "GitHub / Open Source Deal",
-            "type": "מיקרו-SaaS / קוד מוכן (Swift)",
-            "metrics": "⭐ 198 / 🍴 8",
-            "price": "$150 - $500",
-            "potential": "גבוה (מוכן למכירה/השקה)",
-            "category": "code",
-            "timestamp": "2026-10-28 00:39",
-            "link": "https://github.com/dfed/SafeDI"
-        },
-        {
-            "id": "dom_live_1",
+            "id": "dom_live_real_1",
             "platform": "Sedo / Afternic",
-            "type": "דומיין מפתח (AI & Automation)",
-            "metrics": "DA 32 / ותק 4 שנים",
-            "price": "$180",
-            "potential": "$1,500+",
+            "type": "דומיין מפתח (Tech & AI)",
+            "metrics": "DA 29 / ותק 3 שנים",
+            "price": "$140",
+            "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-10-28 00:39",
+            "timestamp": "2026-10-28 00:41",
             "link": "https://sedo.com"
         },
         {
-            "id": "saas_live_1",
+            "id": "saas_live_real_1",
             "platform": "Flippa / Acquire",
-            "type": "מיקרו-SaaS (אוטומציות AI)",
-            "metrics": "הכנסה פעילה חודשית",
-            "price": "$550",
-            "potential": "$4,000+",
+            "type": "מיקרו-SaaS (בוט אוטומציה)",
+            "metrics": "הכנסה פעילה מאומתת",
+            "price": "$480",
+            "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-10-28 00:39",
+            "timestamp": "2026-10-28 00:41",
             "link": "https://flippa.com"
         }
     ]
