@@ -3,7 +3,7 @@ name: Live Arbitrage Data Updater
 on:
   schedule:
     - cron: '0 */2 * * *' # רץ אוטומטית כל שעתיים
-  workflow_dispatch: allow manual run
+  workflow_dispatch:
 
 jobs:
   update-data:
