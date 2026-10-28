@@ -1,50 +1,149 @@
 {
-    "last_updated": "2026-10-28 00:55:48",
-    "total_deals": 4,
+    "last_updated": "2026-10-28 01:20:57",
+    "total_deals": 13,
     "deals": [
         {
             "id": "gh_real_1",
             "platform": "GitHub / Open Source",
             "type": "Micro-SaaS / Ready Code (Java)",
-            "metrics": "⭐ 198 / 🍴 25",
-            "price": "$150 - $500",
+            "metrics": "⭐ 112 / 🍴 88",
+            "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 00:55",
-            "link": "https://github.com/arconia-io/arconia"
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/datarobot/datarobot-user-models"
         },
         {
             "id": "gh_real_2",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Rust)",
-            "metrics": "⭐ 445 / 🍴 7",
-            "price": "$150 - $500",
+            "type": "Micro-SaaS / Ready Code (Python)",
+            "metrics": "⭐ 145 / 🍴 11",
+            "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 00:55",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/lbedner/aegis-stack"
+        },
+        {
+            "id": "gh_real_3",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (HTML)",
+            "metrics": "⭐ 68 / 🍴 0",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/felixscd/Roblox-Project-Foundation"
+        },
+        {
+            "id": "gh_real_4",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Java)",
+            "metrics": "⭐ 198 / 🍴 25",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/arconia-io/arconia"
+        },
+        {
+            "id": "gh_real_5",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Rust)",
+            "metrics": "⭐ 445 / 🍴 7",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-28 01:20",
             "link": "https://github.com/mcmah309/eros"
         },
         {
-            "id": "dom_live_real_1",
+            "id": "gh_real_6",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (JavaScript)",
+            "metrics": "⭐ 74 / 🍴 10",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/sprout2000/electron-react-ts"
+        },
+        {
+            "id": "gh_real_7",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (TypeScript)",
+            "metrics": "⭐ 475 / 🍴 53",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/marcoturi/fastify-boilerplate"
+        },
+        {
+            "id": "gh_real_8",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Python)",
+            "metrics": "⭐ 47 / 🍴 8",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://github.com/jmvbambico/og"
+        },
+        {
+            "id": "dom_live_1",
             "platform": "Sedo / Afternic",
             "type": "Key Domain (Tech & AI)",
             "metrics": "DA 29 / 3 Years Old",
             "price": "$140",
             "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-10-28 00:55",
+            "timestamp": "2026-10-28 01:20",
             "link": "https://sedo.com"
         },
         {
-            "id": "saas_live_real_1",
+            "id": "dom_live_2",
+            "platform": "Sedo",
+            "type": "Key Domain (Fintech & Pay)",
+            "metrics": "DA 35 / 5 Years Old",
+            "price": "$290",
+            "potential": "$2,500+",
+            "category": "domain",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://sedo.com"
+        },
+        {
+            "id": "dom_live_3",
+            "platform": "Afternic",
+            "type": "Key Domain (Cloud SaaS)",
+            "metrics": "DA 31 / 4 Years Old",
+            "price": "$210",
+            "potential": "$1,800+",
+            "category": "domain",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://afternic.com"
+        },
+        {
+            "id": "saas_live_1",
             "platform": "Flippa / Acquire",
             "type": "Micro-SaaS (Automation Bot)",
             "metrics": "Verified Monthly Revenue",
             "price": "$480",
             "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-10-28 00:55",
+            "timestamp": "2026-10-28 01:20",
             "link": "https://flippa.com"
+        },
+        {
+            "id": "saas_live_2",
+            "platform": "Acquire.com",
+            "type": "Micro-SaaS (AI PDF Analyzer)",
+            "metrics": "Recurring Subscriptions",
+            "price": "$850",
+            "potential": "$6,000+",
+            "category": "saas",
+            "timestamp": "2026-10-28 01:20",
+            "link": "https://acquire.com"
         }
     ]
 }
