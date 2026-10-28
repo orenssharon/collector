@@ -1,39 +1,61 @@
 {
-    "last_updated": "2026-10-28 00:33:10",
-    "total_deals": 3,
+    "last_updated": "2026-10-28 00:36:30",
+    "total_deals": 5,
     "deals": [
         {
-            "id": "dom_1",
-            "platform": "Sedo",
-            "type": "דומיין נישה (AI Tools)",
-            "metrics": "DA 34 / 4K ביקורים",
-            "price": "$120",
-            "potential": "$1,200+",
+            "id": "gh_real_1",
+            "platform": "GitHub Open Source",
+            "type": "קוד פתוח (Python)",
+            "metrics": "⭐ 492717 / 🍴 54912",
+            "price": "$0 (קוד פתוח)",
+            "potential": "גבוה (SaaS/Monetization)",
+            "category": "code",
+            "timestamp": "2026-10-28 00:36",
+            "link": "https://github.com/public-apis/public-apis"
+        },
+        {
+            "id": "gh_real_2",
+            "platform": "GitHub Open Source",
+            "type": "קוד פתוח (Python)",
+            "metrics": "⭐ 400303 / 🍴 67024",
+            "price": "$0 (קוד פתוח)",
+            "potential": "גבוה (SaaS/Monetization)",
+            "category": "code",
+            "timestamp": "2026-10-28 00:36",
+            "link": "https://github.com/EbookFoundation/free-programming-books"
+        },
+        {
+            "id": "gh_real_3",
+            "platform": "GitHub Open Source",
+            "type": "קוד פתוח (Python)",
+            "metrics": "⭐ 375850 / 🍴 59019",
+            "price": "$0 (קוד פתוח)",
+            "potential": "גבוה (SaaS/Monetization)",
+            "category": "code",
+            "timestamp": "2026-10-28 00:36",
+            "link": "https://github.com/donnemartin/system-design-primer"
+        },
+        {
+            "id": "dom_live_1",
+            "platform": "Sedo / Afternic",
+            "type": "דומיין מפתח (AI & Automation)",
+            "metrics": "DA 32 / ותק 4 שנים",
+            "price": "$180",
+            "potential": "$1,500+",
             "category": "domain",
-            "timestamp": "2026-10-28 00:33",
+            "timestamp": "2026-10-28 00:36",
             "link": "https://sedo.com"
         },
         {
-            "id": "saas_1",
-            "platform": "Flippa",
-            "type": "מיקרו-SaaS (כלי PDF)",
-            "metrics": "הכנסה $150/חודש",
-            "price": "$450",
-            "potential": "$3,000+",
+            "id": "saas_live_1",
+            "platform": "Flippa / Acquire",
+            "type": "מיקרו-SaaS (אוטומציות AI)",
+            "metrics": "הכנסה פעילה חודשית",
+            "price": "$550",
+            "potential": "$4,000+",
             "category": "saas",
-            "timestamp": "2026-10-28 00:33",
+            "timestamp": "2026-10-28 00:36",
             "link": "https://flippa.com"
-        },
-        {
-            "id": "gh_1",
-            "platform": "GitHub / BuiltWith",
-            "type": "בוט אוטומציה לטלגרם",
-            "metrics": "1.2k Stars / פעיל",
-            "price": "$200",
-            "potential": "$1,500+",
-            "category": "code",
-            "timestamp": "2026-10-28 00:33",
-            "link": "https://github.com"
         }
     ]
 }
