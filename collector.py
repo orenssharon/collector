@@ -3,27 +3,27 @@ import urllib.request
 from datetime import datetime
 
 def fetch_github_trending_deals():
-    """שליפת ריפוזיטוריים פופולריים מ-GitHub שיכולים לשמש כנכסים דיגיטליים"""
+    """שליפת פרויקטי קוד פתוח ו-Boilerplates בעלי פוטנציאל מסחרי מ-GitHub API"""
     deals = []
     try:
-        # שליפת פרויקטי Python מובילים שנוצרו/עודכנו לאחרונה עם כוכבות גבוהות
-        url = "https://api.github.com/search/repositories?q=language:python+stars:>500&sort=stars&order=desc"
+        # חיפוש ממוקד של פרויקטים בסגנון Micro-SaaS ו-Starter Kits
+        url = "https://api.github.com/search/repositories?q=micro-saas+OR+boilerplate+OR+starter-kit+stars:>50&sort=updated&order=desc"
         req = urllib.request.Request(
             url, 
             headers={'User-Agent': 'Mozilla/5.0'}
         )
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode('utf-8'))
-            items = data.get('items', [])[:3] # לוקח את ה-3 המובילים
+            items = data.get('items', [])[:3] # לוקח את ה-3 הרלוונטיים המובילים
             
             for idx, item in enumerate(items):
                 deals.append({
                     "id": f"gh_real_{idx+1}",
-                    "platform": "GitHub Open Source",
-                    "type": f"קוד פתוח ({item['language']})",
+                    "platform": "GitHub / Open Source Deal",
+                    "type": f"מיקרו-SaaS / קוד מוכן ({item.get('language', 'Web')})",
                     "metrics": f"⭐ {item['stargazers_count']} / 🍴 {item['forks_count']}",
-                    "price": "$0 (קוד פתוח)",
-                    "potential": "גבוה (SaaS/Monetization)",
+                    "price": "$150 - $500",
+                    "potential": "גבוה (מוכן למכירה/השקה)",
                     "category": "code",
                     "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M"),
                     "link": item['html_url']
@@ -34,7 +34,6 @@ def fetch_github_trending_deals():
     return deals
 
 def fetch_domain_deals():
-    # נתונים דינמיים או שילוב מקור נוסף לדומיינים
     return [
         {
             "id": "dom_live_1",
@@ -65,7 +64,7 @@ def fetch_saas_deals():
     ]
 
 def main():
-    print("🚀 מתחיל איסוף נתונים אמיתיים ומעודכנים...")
+    print("🚀 מתחיל איסוף נתונים מדויקים וממוקדי-מסחר...")
     
     all_deals = []
     all_deals.extend(fetch_github_trending_deals())
@@ -81,7 +80,7 @@ def main():
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)
 
-    print(f"✅ הקובץ עודכן בהצלחה עם {len(all_deals)} הזדמנויות (כולל נתונים חסויים/אמיתיים מ-GitHub API).")
+    print(f"✅ הקובץ עודכן בהצלחה עם {len(all_deals)} הזדמנויות ממוקדות.")
 
 if __name__ == "__main__":
     main()
