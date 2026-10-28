@@ -1,49 +1,49 @@
 {
-    "last_updated": "2026-10-28 00:41:34",
+    "last_updated": "2026-10-28 00:55:48",
     "total_deals": 4,
     "deals": [
         {
             "id": "gh_real_1",
-            "platform": "GitHub / Open Source Deal",
-            "type": "מיקרו-SaaS / קוד מוכן (Rust)",
-            "metrics": "⭐ 445 / 🍴 7",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Java)",
+            "metrics": "⭐ 198 / 🍴 25",
             "price": "$150 - $500",
-            "potential": "גבוה (מוכן למכירה/השקה)",
+            "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 00:41",
-            "link": "https://github.com/mcmah309/eros"
+            "timestamp": "2026-10-28 00:55",
+            "link": "https://github.com/arconia-io/arconia"
         },
         {
             "id": "gh_real_2",
-            "platform": "GitHub / Open Source Deal",
-            "type": "מיקרו-SaaS / קוד מוכן (TypeScript)",
-            "metrics": "⭐ 475 / 🍴 53",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Rust)",
+            "metrics": "⭐ 445 / 🍴 7",
             "price": "$150 - $500",
-            "potential": "גבוה (מוכן למכירה/השקה)",
+            "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-28 00:41",
-            "link": "https://github.com/marcoturi/fastify-boilerplate"
+            "timestamp": "2026-10-28 00:55",
+            "link": "https://github.com/mcmah309/eros"
         },
         {
             "id": "dom_live_real_1",
             "platform": "Sedo / Afternic",
-            "type": "דומיין מפתח (Tech & AI)",
-            "metrics": "DA 29 / ותק 3 שנים",
+            "type": "Key Domain (Tech & AI)",
+            "metrics": "DA 29 / 3 Years Old",
             "price": "$140",
             "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-10-28 00:41",
+            "timestamp": "2026-10-28 00:55",
             "link": "https://sedo.com"
         },
         {
             "id": "saas_live_real_1",
             "platform": "Flippa / Acquire",
-            "type": "מיקרו-SaaS (בוט אוטומציה)",
-            "metrics": "הכנסה פעילה מאומתת",
+            "type": "Micro-SaaS (Automation Bot)",
+            "metrics": "Verified Monthly Revenue",
             "price": "$480",
             "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-10-28 00:41",
+            "timestamp": "2026-10-28 00:55",
             "link": "https://flippa.com"
         }
     ]
