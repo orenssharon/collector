@@ -1,94 +1,94 @@
 {
-    "last_updated": "2026-10-30 12:07:51",
+    "last_updated": "2026-10-30 18:58:46",
     "total_deals": 13,
     "deals": [
         {
             "id": "gh_real_1",
             "platform": "GitHub / Open Source",
             "type": "Micro-SaaS / Ready Code (TypeScript)",
-            "metrics": "⭐ 475 / 🍴 53",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/marcoturi/fastify-boilerplate"
-        },
-        {
-            "id": "gh_real_2",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Vue)",
-            "metrics": "⭐ 295 / 🍴 74",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/jeremykenedy/laravel-spa"
-        },
-        {
-            "id": "gh_real_3",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (JavaScript)",
-            "metrics": "⭐ 80 / 🍴 14",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/HarnessRouter/starter-kit"
-        },
-        {
-            "id": "gh_real_4",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (TypeScript)",
             "metrics": "⭐ 96 / 🍴 10",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-30 12:07",
+            "timestamp": "2026-10-30 18:58",
             "link": "https://github.com/karmasakshi/jet"
+        },
+        {
+            "id": "gh_real_2",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (JavaScript)",
+            "metrics": "⭐ 75 / 🍴 14",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/Barata-Ribeiro/vite-vanilla-js-template"
+        },
+        {
+            "id": "gh_real_3",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Python)",
+            "metrics": "⭐ 46 / 🍴 0",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/tigusigalpa/ai-kit"
+        },
+        {
+            "id": "gh_real_4",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (Java)",
+            "metrics": "⭐ 941 / 🍴 213",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/matteobaccan/owner"
         },
         {
             "id": "gh_real_5",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (TypeScript)",
-            "metrics": "⭐ 170 / 🍴 15",
+            "type": "Micro-SaaS / Ready Code (Python)",
+            "metrics": "⭐ 9308 / 🍴 1497",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/hirotaka/pragmatic-nuxt"
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/MervinPraison/PraisonAI"
         },
         {
             "id": "gh_real_6",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (TypeScript)",
-            "metrics": "⭐ 5050 / 🍴 423",
+            "type": "Micro-SaaS / Ready Code (C#)",
+            "metrics": "⭐ 34 / 🍴 4",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/web-infra-dev/modern.js"
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/KafkaWannaFly/BindableProps"
         },
         {
             "id": "gh_real_7",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (HTML)",
-            "metrics": "⭐ 55 / 🍴 0",
+            "type": "Micro-SaaS / Ready Code (TypeScript)",
+            "metrics": "⭐ 103 / 🍴 16",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/hazard0942/torch-orchestra"
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/marcoturi/react-redux-boilerplate"
         },
         {
             "id": "gh_real_8",
             "platform": "GitHub / Open Source",
             "type": "Micro-SaaS / Ready Code (Python)",
-            "metrics": "⭐ 9308 / 🍴 1495",
+            "metrics": "⭐ 977 / 🍴 183",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-10-30 12:07",
-            "link": "https://github.com/MervinPraison/PraisonAI"
+            "timestamp": "2026-10-30 18:58",
+            "link": "https://github.com/pytorch/helion"
         },
         {
             "id": "dom_live_1",
@@ -98,7 +98,7 @@
             "price": "$140",
             "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-10-30 12:07",
+            "timestamp": "2026-10-30 18:58",
             "link": "https://sedo.com"
         },
         {
@@ -109,7 +109,7 @@
             "price": "$290",
             "potential": "$2,500+",
             "category": "domain",
-            "timestamp": "2026-10-30 12:07",
+            "timestamp": "2026-10-30 18:58",
             "link": "https://sedo.com"
         },
         {
@@ -120,7 +120,7 @@
             "price": "$210",
             "potential": "$1,800+",
             "category": "domain",
-            "timestamp": "2026-10-30 12:07",
+            "timestamp": "2026-10-30 18:58",
             "link": "https://afternic.com"
         },
         {
@@ -131,7 +131,7 @@
             "price": "$480",
             "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-10-30 12:07",
+            "timestamp": "2026-10-30 18:58",
             "link": "https://flippa.com"
         },
         {
@@ -142,7 +142,7 @@
             "price": "$850",
             "potential": "$6,000+",
             "category": "saas",
-            "timestamp": "2026-10-30 12:07",
+            "timestamp": "2026-10-30 18:58",
             "link": "https://acquire.com"
         }
     ]
