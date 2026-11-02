@@ -1,50 +1,50 @@
 {
-    "last_updated": "2026-11-01 21:41:12",
+    "last_updated": "2026-11-02 01:16:06",
     "total_deals": 13,
     "deals": [
         {
             "id": "gh_real_1",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Elixir)",
-            "metrics": "⭐ 39 / 🍴 10",
+            "type": "Micro-SaaS / Ready Code (HTML)",
+            "metrics": "⭐ 53 / 🍴 0",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
-            "link": "https://github.com/BeamLabEU/phoenix_kit"
+            "timestamp": "2026-11-02 01:16",
+            "link": "https://github.com/khaledali2702-prog/torch-trainer-forge"
         },
         {
             "id": "gh_real_2",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (F#)",
-            "metrics": "⭐ 113 / 🍴 18",
+            "type": "Micro-SaaS / Ready Code (TypeScript)",
+            "metrics": "⭐ 396 / 🍴 98",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
-            "link": "https://github.com/fable-compiler/fable-elmish-electron-material-ui-demo"
+            "timestamp": "2026-11-02 01:16",
+            "link": "https://github.com/mikemajesty/nestjs-microservice-boilerplate-api"
         },
         {
             "id": "gh_real_3",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Python)",
-            "metrics": "⭐ 48 / 🍴 2",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-01 21:41",
-            "link": "https://github.com/Winipedia/pyrig"
-        },
-        {
-            "id": "gh_real_4",
             "platform": "GitHub / Open Source",
             "type": "Micro-SaaS / Ready Code (TypeScript)",
             "metrics": "⭐ 170 / 🍴 15",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://github.com/hirotaka/pragmatic-nuxt"
+        },
+        {
+            "id": "gh_real_4",
+            "platform": "GitHub / Open Source",
+            "type": "Micro-SaaS / Ready Code (TypeScript)",
+            "metrics": "⭐ 55 / 🍴 44",
+            "price": "$150 - $650",
+            "potential": "High (Ready to Launch)",
+            "category": "code",
+            "timestamp": "2026-11-02 01:16",
+            "link": "https://github.com/overextended/fivem-ts"
         },
         {
             "id": "gh_real_5",
@@ -54,19 +54,19 @@
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://github.com/Gabedevz/haiku-bridge-trainer"
         },
         {
             "id": "gh_real_6",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Java)",
-            "metrics": "⭐ 198 / 🍴 25",
+            "type": "Micro-SaaS / Ready Code (TypeScript)",
+            "metrics": "⭐ 475 / 🍴 53",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
-            "link": "https://github.com/arconia-io/arconia"
+            "timestamp": "2026-11-02 01:16",
+            "link": "https://github.com/marcoturi/fastify-boilerplate"
         },
         {
             "id": "gh_real_7",
@@ -76,19 +76,19 @@
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://github.com/hazard0942/torch-orchestra"
         },
         {
             "id": "gh_real_8",
             "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Python)",
-            "metrics": "⭐ 145 / 🍴 11",
+            "type": "Micro-SaaS / Ready Code (HTML)",
+            "metrics": "⭐ 68 / 🍴 0",
             "price": "$150 - $650",
             "potential": "High (Ready to Launch)",
             "category": "code",
-            "timestamp": "2026-11-01 21:41",
-            "link": "https://github.com/lbedner/aegis-stack"
+            "timestamp": "2026-11-02 01:16",
+            "link": "https://github.com/felixscd/Roblox-Project-Foundation"
         },
         {
             "id": "dom_live_1",
@@ -98,7 +98,7 @@
             "price": "$140",
             "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://sedo.com"
         },
         {
@@ -109,7 +109,7 @@
             "price": "$290",
             "potential": "$2,500+",
             "category": "domain",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://sedo.com"
         },
         {
@@ -120,7 +120,7 @@
             "price": "$210",
             "potential": "$1,800+",
             "category": "domain",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://afternic.com"
         },
         {
@@ -131,7 +131,7 @@
             "price": "$480",
             "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://flippa.com"
         },
         {
@@ -142,7 +142,7 @@
             "price": "$850",
             "potential": "$6,000+",
             "category": "saas",
-            "timestamp": "2026-11-01 21:41",
+            "timestamp": "2026-11-02 01:16",
             "link": "https://acquire.com"
         }
     ]
