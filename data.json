@@ -1,95 +1,7 @@
 {
-    "last_updated": "2026-11-26 22:48:03",
-    "total_deals": 13,
+    "last_updated": "2026-11-27 06:42:37",
+    "total_deals": 5,
     "deals": [
-        {
-            "id": "gh_real_1",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (TypeScript)",
-            "metrics": "⭐ 515 / 🍴 63",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/nellavio/nellavio"
-        },
-        {
-            "id": "gh_real_2",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Python)",
-            "metrics": "⭐ 46 / 🍴 8",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/israel-dryer/bootstack"
-        },
-        {
-            "id": "gh_real_3",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (PHP)",
-            "metrics": "⭐ 696 / 🍴 106",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/studio1902/statamic-peak"
-        },
-        {
-            "id": "gh_real_4",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (HTML)",
-            "metrics": "⭐ 56 / 🍴 0",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/Gabedevz/haiku-bridge-trainer"
-        },
-        {
-            "id": "gh_real_5",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Emacs Lisp)",
-            "metrics": "⭐ 930 / 🍴 117",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/jamescherti/minimal-emacs.d"
-        },
-        {
-            "id": "gh_real_6",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Astro)",
-            "metrics": "⭐ 207 / 🍴 32",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/peltmonger/stardrive"
-        },
-        {
-            "id": "gh_real_7",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (HTML)",
-            "metrics": "⭐ 53 / 🍴 0",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/khaledali2702-prog/torch-trainer-forge"
-        },
-        {
-            "id": "gh_real_8",
-            "platform": "GitHub / Open Source",
-            "type": "Micro-SaaS / Ready Code (Elixir)",
-            "metrics": "⭐ 40 / 🍴 10",
-            "price": "$150 - $650",
-            "potential": "High (Ready to Launch)",
-            "category": "code",
-            "timestamp": "2026-11-26 22:48",
-            "link": "https://github.com/BeamLabEU/phoenix_kit"
-        },
         {
             "id": "dom_live_1",
             "platform": "Sedo / Afternic",
@@ -98,7 +10,7 @@
             "price": "$140",
             "potential": "$1,200+",
             "category": "domain",
-            "timestamp": "2026-11-26 22:48",
+            "timestamp": "2026-11-27 06:42",
             "link": "https://sedo.com"
         },
         {
@@ -109,7 +21,7 @@
             "price": "$290",
             "potential": "$2,500+",
             "category": "domain",
-            "timestamp": "2026-11-26 22:48",
+            "timestamp": "2026-11-27 06:42",
             "link": "https://sedo.com"
         },
         {
@@ -120,7 +32,7 @@
             "price": "$210",
             "potential": "$1,800+",
             "category": "domain",
-            "timestamp": "2026-11-26 22:48",
+            "timestamp": "2026-11-27 06:42",
             "link": "https://afternic.com"
         },
         {
@@ -131,7 +43,7 @@
             "price": "$480",
             "potential": "$3,500+",
             "category": "saas",
-            "timestamp": "2026-11-26 22:48",
+            "timestamp": "2026-11-27 06:42",
             "link": "https://flippa.com"
         },
         {
@@ -142,7 +54,7 @@
             "price": "$850",
             "potential": "$6,000+",
             "category": "saas",
-            "timestamp": "2026-11-26 22:48",
+            "timestamp": "2026-11-27 06:42",
             "link": "https://acquire.com"
         }
     ]
